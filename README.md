@@ -1,1 +1,1 @@
-# predictive-maintenance-infra
+この予兆検知システムは、Terraformを使ってAWS(あるいはGCP)上に構築しました
